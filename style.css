@@ -1,0 +1,42 @@
+body {
+    font-family: "poppins", serif;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+
+.desc {
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+.tools {
+    display: flex;
+    list-style: none;
+}
+
+.tools li {
+    font-size: 4rem;
+    padding-right: 2rem;
+}
+
+#html {
+    color: #DC4A25;
+}
+
+#css {
+    color: #1B84C1;
+}
+
+#javascript {
+    color: #E8D44E;
+}
